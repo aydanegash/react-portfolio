@@ -37,7 +37,7 @@ class Portfolio extends Component {
                   <div class="container">
                     <a href="https://sprout-of-this-world.herokuapp.com/">     
                     <h1> Sprout of this World</h1>
-                    <p1>This app helps struggling plant parents everywhere struggling with watering their plants on time. A watering schedule can be created and inventory of plants. </p1>
+                    <p1>This app helps struggling plant parents everywhere struggling with watering their plants on time. A watering schedule can be created and an inventory of plants. </p1>
                     </a>
                   </div>
                 </div>
@@ -48,7 +48,7 @@ class Portfolio extends Component {
                   <div class="container">
                   <a href="https://jonathan-jablonski.github.io/got-munchies/">   
                   <h1> Got Munchies</h1>
-                    <p1>Not sure where to eat? This app will help people decide the best place to eat when you dont have the will power left to figure out where to go.</p1>
+                    <p1>Not sure where to eat? This app will help people decide the best place to eat when you don't have the will power left to figure out where to go.   </p1>
                     </a>
                   </div>
                 </div>
@@ -59,7 +59,7 @@ class Portfolio extends Component {
                   <div class="container">
                   <a href="https://aydanegash.github.io/password-generator/">  
                   <h1> Password Generator</h1>
-                    <p1>In the age of hacking, having a strong password is of the upmost importance. This app will help generate a strong unique password everytime. </p1>
+                    <p1>In the age of hacking, having a strong password is of the utmost importance. This app will help generate a strong unique password every time.</p1>
                     </a>
                   </div>
                 </div>
@@ -81,7 +81,7 @@ class Portfolio extends Component {
               <div class="container">
               <h1> Note Taker</h1>
               <a href="https://nameless-brook-20588.herokuapp.com/">
-              <p>Do you have alot on your mind? Jot it down on this note taking app. </p>
+              <p>Do you have a lot on your mind? Jot it down on this note taking app. </p>
              </a>
             </div>
             </div>
