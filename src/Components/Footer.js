@@ -12,6 +12,7 @@ class Footer extends Component {
     const email = this.props.data.email;
 
     return (
+      <div id="footer"> 
       <footer>
       <div className="row">
         <section id="contact">
@@ -56,6 +57,7 @@ class Footer extends Component {
           </div>
         </div>
       </footer>
+      </div>
     );
   }
 }
