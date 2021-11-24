@@ -313,25 +313,32 @@ ul#nav li.current a { color: rgb(16, 0, 46); }
 
 #portfolio {
    background: rgb(16, 0, 46) ;
-   padding-top: 45px;
-   padding-bottom: 90px;
+   padding-top: 10%;
+   padding-bottom: 1%;
    height: 600px;
 }
 #portfolio h2 {
    font: 15px/24px 'opensans-semibold', sans-serif;
    text-transform: uppercase;
    letter-spacing: 1px;
-   text-align: center;
-   margin-bottom: 48px;
+   text-align: right;
+   margin-bottom: -5%;
    color: #95A3A3;
-   font-size: x-large;
+   font-size: small;
 }
 #portfolio h1 {
    font: 15px/24px 'opensans-semibold', sans-serif;
    text-transform: uppercase;
    letter-spacing: 1px;
    text-align: center;
-   margin-bottom: 48px;
+   margin-bottom: 5%;
+   color: #95A3A3;
+}
+
+#portfolio p1 {
+   letter-spacing: 1px;
+   text-align: center;
+   margin-bottom: 10%;
    color: #95A3A3;
 }
 
@@ -376,7 +383,7 @@ ul#nav li.current a { color: rgb(16, 0, 46); }
 .portfolio-item .item-wrap .link-icon {
    display: block;
    color: #fff;
-   height: 30px;
+   height: 100px;
    width: 20%;
    font-size: 18px;
    line-height: 30px;
