@@ -297,7 +297,7 @@ ul#nav li.current a { color: rgb(16, 0, 46); }
  /* Add some padding inside the card container */
  .container {
    padding: 7%;
-   height: 280px;
+   height: 350px;
  }
 
  img {
@@ -315,16 +315,17 @@ ul#nav li.current a { color: rgb(16, 0, 46); }
    background: rgb(16, 0, 46) ;
    padding-top: 10%;
    padding-bottom: 1%;
-   height: 600px;
+   height: 700px;
 }
 #portfolio h2 {
    font: 15px/24px 'opensans-semibold', sans-serif;
    text-transform: uppercase;
    letter-spacing: 1px;
    text-align: right;
-   margin-bottom: -5%;
+   margin-bottom: 4%;
    color: #95A3A3;
    font-size: small;
+   padding-bottom: 3%;
 }
 #portfolio h1 {
    font: 15px/24px 'opensans-semibold', sans-serif;
@@ -333,6 +334,17 @@ ul#nav li.current a { color: rgb(16, 0, 46); }
    text-align: center;
    margin-bottom: 5%;
    color: #95A3A3;
+}
+
+#portfolio h3 {
+   font: 15px/24px 'opensans-semibold', sans-serif;
+   text-transform: uppercase;
+   letter-spacing: 1px;
+   text-align: center;
+   color: #ffffff;
+   font-size: x-large;
+   margin-top: -7%;
+   margin-bottom: 2%;
 }
 
 #portfolio p1 {
